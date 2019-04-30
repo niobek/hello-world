@@ -1,0 +1,2 @@
+add a new file to git example
+comit new changes
